@@ -29,6 +29,7 @@ function double(num) {
 }
 let doubleNum = numbers.forEach(double);
 ```
+![](./img/Q3.png)
 
 ```js
 let numbers = [100, 200, 33, 45, 65, 76, 51];
